@@ -1,10 +1,7 @@
 #TODO
 
-Expectations of the web
-    be responsive
-Simplicity
-Consistency
-Content is King
+Dry run is on the 18th of August.
+First dojo is on the 6th of September.
 
 ## Dojo pre-requisites
 
