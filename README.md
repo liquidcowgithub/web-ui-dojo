@@ -22,7 +22,7 @@ Put together the theory description and a good vs bad example for the following 
         * Form layouts
     * Bigger click areas
         * Cursor styling (pointer!)
-        * Text clicabkle on checkboxes and radio buttons
+        * Text clicable on checkboxes and radio buttons
     * Navigations
         * Where did we come from?
         * Where can we go now?
@@ -74,4 +74,4 @@ Bootstraped CRUD pages may be the best tool to do this?
     * If no, no one else will either.
     * As the developer, you are the mose forgiving user: if you don't like it, everyone else will hate it.
 
-## Part 4 - Further reading resources
+## Part 4 - Further reading resources               `
