@@ -7,6 +7,9 @@ Describe the theory around alignment etc....
 <iframe src="./Part 1 - Theory/1.UI Design/Bigger click areas/index.html" style="width: 100%; height: 80vh;"/>  
 
 # Bigger click areas - Analysis
+* This is an area of UI design that is often overlooked
+* Nothing is worse than trying multiple time to click on a "Remember Me" checkbox that just cant be clicked
+* A user can loose out on the full functionality of a site, especially if the site has hidden elements, that can't be reached because of tiny click areas 
 
 ## Bad things to point out
 
