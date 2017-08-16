@@ -1,5 +1,12 @@
+# Alignment - Concept
+
 Describe the theory around alignment etc.... 
 
+# Alignment - Example 
+
+<iframe src="./Part 1 - Theory/1.UI Design/Alignment/index.html" style="width: 100%; height: 80vh;"/>   
+
+# Alignment - Analysis
 
 ## Bad things to point out
 
@@ -8,7 +15,6 @@ Describe the theory around alignment etc....
 * inconsistent sizing of form controls
 * the input boxes are inconsistent sizes 
 * the remember be checkbox has to be counter styled now (against the css framework) to get it to align to something.
-
 
 ## Reading material
 
