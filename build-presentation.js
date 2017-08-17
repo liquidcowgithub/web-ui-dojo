@@ -23,9 +23,12 @@ const options = {
  
 const alignment = require('./Part 1 - Theory/1.UI Design/Alignment/concept.md')
 const biggerClickAreas = require('./Part 1 - Theory/1.UI Design/Bigger click areas/concept.md')
+const navigations = require('./Part 1 - Theory/1.UI Design/Navigations/concept.md')
 
 markpress(
-    alignment + "\n" + biggerClickAreas,
+    alignment + "\n" + 
+    biggerClickAreas + "\n" + 
+    navigations,
   options
 ).then(({html, md}) => {
   fs.writeFileSync('index.html', html);

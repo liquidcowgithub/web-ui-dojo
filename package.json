@@ -4,7 +4,7 @@
   "description": "Dry run is on the 18th of August. First dojo is on the 6th of September.",
   "main": "index.js",
   "scripts": {
-    "start": "http-server",
+    "start": "http-server -p 8090",
     "build": "node build-presentation.js"
   },
   "repository": {
