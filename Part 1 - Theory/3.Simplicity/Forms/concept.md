@@ -10,9 +10,3 @@
 
 
 ## Bad things to point out
-
-
-## Reading material
-
-
-

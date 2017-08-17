@@ -28,6 +28,9 @@ const forms = require('./Part 1 - Theory/3.Simplicity/Forms/concept.md')
 const lessIsMore = require('./Part 1 - Theory/3.Simplicity/Less is More/concept.md')
 const crud = require('./Part 1 - Theory/3.Simplicity/CRUD/concept.md')
 const onePageShouldLookLikeTheNext = require('./Part 1 - Theory/4.Consistency/One page should look like the next/concept.md')
+const practical = require('./Part 2 - Practical/concept.md')
+const someIdeas = require('./Part 3 - Some ideas/concept.md')
+const furtherReading = require('./Part 4 - Futher reading/Reading resources.md')
 
 markpress(
     alignment + "\n" + 
@@ -37,7 +40,10 @@ markpress(
     lessIsMore + "\n" + 
     lessIsMore + "\n" + 
     crud + "\n" + 
-    onePageShouldLookLikeTheNext,
+    onePageShouldLookLikeTheNext + "\n" +
+    practical + "\n" +
+    someIdeas + "\n" +
+    furtherReading,
   options
 ).then(({html, md}) => {
   fs.writeFileSync('index.html', html);

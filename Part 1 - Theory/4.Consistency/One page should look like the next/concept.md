@@ -22,5 +22,3 @@
 ## Insights
 
 * When developing in isoloation, its easy to introduce inconsistencies
-
-## Reading material

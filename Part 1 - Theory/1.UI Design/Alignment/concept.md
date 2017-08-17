@@ -20,7 +20,3 @@ Describe the theory around alignment etc....
 * inconsistent sizing of form controls
 * the input boxes are inconsistent sizes 
 * the remember me checkbox has to be counter styled now (against the css framework) to get it to align to something.
-
-## Reading material
-
-https://uxplanet.org/10-rules-for-efficient-form-design-e13dc1fb0e03

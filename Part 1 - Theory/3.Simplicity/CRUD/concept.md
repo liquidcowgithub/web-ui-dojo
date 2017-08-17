@@ -12,8 +12,3 @@ Doing Crud in isolation or on the same list page ?
 
 ## Bad things to point out
 
-
-## Reading material
-
-
-
