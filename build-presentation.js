@@ -24,11 +24,17 @@ const options = {
 const alignment = require('./Part 1 - Theory/1.UI Design/Alignment/concept.md')
 const biggerClickAreas = require('./Part 1 - Theory/1.UI Design/Bigger click areas/concept.md')
 const navigations = require('./Part 1 - Theory/1.UI Design/Navigations/concept.md')
+const forms = require('./Part 1 - Theory/3.Simplicity/Forms/concept.md')
+const lessIsMore = require('./Part 1 - Theory/3.Simplicity/Less is More/concept.md')
+const crud = require('./Part 1 - Theory/3.Simplicity/CRUD/concept.md')
 
 markpress(
     alignment + "\n" + 
     biggerClickAreas + "\n" + 
-    navigations,
+    navigations + "\n" + 
+    forms + "\n" + 
+    lessIsMore + "\n" + 
+    crud,
   options
 ).then(({html, md}) => {
   fs.writeFileSync('index.html', html);
