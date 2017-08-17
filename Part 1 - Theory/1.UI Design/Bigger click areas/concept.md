@@ -1,14 +1,19 @@
 # Bigger click areas - Concept
 
-Describe the theory around bigger click areas etc.... 
+A user's accuracy with a mouse is likely to be questionable (unless they're a Quake 3 Hero).
+
+Now imagine the poor user trying to click on things with their big fat fingers.
+
+Clicking on a tiny icon, link or button is going to be tricky.
 
 # Bigger click areas - Example 
 
 <iframe src="./Part 1 - Theory/1.UI Design/Bigger click areas/index.html" style="width: 100%; height: 80vh;"/>  
 
 # Bigger click areas - Analysis
+
 * This is an area of UI design that is often overlooked
-* Nothing is worse than trying multiple time to click on a "Remember Me" checkbox that just cant be clicked
+* Nothing is worse than trying multiple time to click on a "Remember Me" checkbox that just can't be clicked
 * A user can loose out on the full functionality of a site, especially if the site has hidden elements, that can't be reached because of tiny click areas 
 
 ## Bad things to point out
