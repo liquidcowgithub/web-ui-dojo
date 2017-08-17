@@ -1,3 +1,13 @@
+# One page should look like the next - Concept
+
+
+# One page should look like the next - Example 
+
+<iframe src="./Part 1 - Theory/4.Consistency/One page should look like the next/index.html" style="width: 100%; height: 80vh;"/>  
+
+# One page should look like the next - Analysis
+
+
 ## Bad things to point out
 
 * Navbar is inconsistent
@@ -12,3 +22,5 @@
 ## Insights
 
 * When developing in isoloation, its easy to introduce inconsistencies
+
+## Reading material

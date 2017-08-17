@@ -27,6 +27,7 @@ const navigations = require('./Part 1 - Theory/1.UI Design/Navigations/concept.m
 const forms = require('./Part 1 - Theory/3.Simplicity/Forms/concept.md')
 const lessIsMore = require('./Part 1 - Theory/3.Simplicity/Less is More/concept.md')
 const crud = require('./Part 1 - Theory/3.Simplicity/CRUD/concept.md')
+const onePageShouldLookLikeTheNext = require('./Part 1 - Theory/4.Consistency/One page should look like the next/concept.md')
 
 markpress(
     alignment + "\n" + 
@@ -34,7 +35,9 @@ markpress(
     navigations + "\n" + 
     forms + "\n" + 
     lessIsMore + "\n" + 
-    crud,
+    lessIsMore + "\n" + 
+    crud + "\n" + 
+    onePageShouldLookLikeTheNext,
   options
 ).then(({html, md}) => {
   fs.writeFileSync('index.html', html);
