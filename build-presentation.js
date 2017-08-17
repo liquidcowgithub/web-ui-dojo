@@ -26,6 +26,7 @@ const alignment = require('./Part 1 - Theory/1.UI Design/Alignment/concept.md')
 const biggerClickAreas = require('./Part 1 - Theory/1.UI Design/Bigger click areas/concept.md')
 const navigations = require('./Part 1 - Theory/1.UI Design/Navigations/concept.md')
 const forms = require('./Part 1 - Theory/3.Simplicity/Forms/concept.md')
+const submitOnEnter = require('./Part 1 - Theory/3.Simplicity/Submit On Enter/concept.md')
 const lessIsMore = require('./Part 1 - Theory/3.Simplicity/Less is More/concept.md')
 const crud = require('./Part 1 - Theory/3.Simplicity/CRUD/concept.md')
 const onePageShouldLookLikeTheNext = require('./Part 1 - Theory/4.Consistency/One page should look like the next/concept.md')
@@ -41,6 +42,7 @@ markpress(
     biggerClickAreas + "\n" + 
     navigations + "\n" + 
     forms + "\n" + 
+    submitOnEnter + "\n" + 
     lessIsMore + "\n" + 
     lessIsMore + "\n" + 
     crud + "\n" + 
