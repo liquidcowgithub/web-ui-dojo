@@ -1,6 +1,6 @@
 # Bigger click areas - Concept
 
-Describe the theory around alignment etc.... 
+Describe the theory around bigger click areas etc.... 
 
 # Bigger click areas - Example 
 
