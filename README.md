@@ -3,6 +3,9 @@
 Dry run is on the 18th of August.
 First dojo is on the 6th of September.
 
+* Add projector firendly theme file to examples
+* Add example on icons without labels
+
 ## Dojo pre-requisites
 
 * HTML
