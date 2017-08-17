@@ -21,6 +21,7 @@ const options = {
  
 // // or you can pass the Markdown content directly as parameter 
  
+const introduction = require('./Part 0 - Introduction/introduction.md')
 const alignment = require('./Part 1 - Theory/1.UI Design/Alignment/concept.md')
 const biggerClickAreas = require('./Part 1 - Theory/1.UI Design/Bigger click areas/concept.md')
 const navigations = require('./Part 1 - Theory/1.UI Design/Navigations/concept.md')
@@ -31,8 +32,11 @@ const onePageShouldLookLikeTheNext = require('./Part 1 - Theory/4.Consistency/On
 const practical = require('./Part 2 - Practical/concept.md')
 const someIdeas = require('./Part 3 - Some ideas/concept.md')
 const furtherReading = require('./Part 4 - Futher reading/Reading resources.md')
+const conclusion = require('./Part 5 - Conclusion/conclusion.md')
+const questions = require('./Part 5 - Conclusion/questions.md')
 
 markpress(
+    introduction + "\n" + 
     alignment + "\n" + 
     biggerClickAreas + "\n" + 
     navigations + "\n" + 
@@ -43,7 +47,9 @@ markpress(
     onePageShouldLookLikeTheNext + "\n" +
     practical + "\n" +
     someIdeas + "\n" +
-    furtherReading,
+    furtherReading + "\n" +
+    conclusion + "\n" +
+    questions,
   options
 ).then(({html, md}) => {
   fs.writeFileSync('index.html', html);
