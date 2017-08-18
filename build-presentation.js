@@ -44,7 +44,6 @@ markpress(
     forms + "\n" + 
     submitOnEnter + "\n" + 
     lessIsMore + "\n" + 
-    lessIsMore + "\n" + 
     crud + "\n" + 
     onePageShouldLookLikeTheNext + "\n" +
     practical + "\n" +
