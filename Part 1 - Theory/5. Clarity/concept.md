@@ -1,16 +1,19 @@
 
-# Branding - Concept
+# Clarity - Concept
 
 
-# Branding - Example 
+# Clarity - Example 
 
-<iframe src="./Part 1 - Theory/6.Branding/index.html" style="width: 100%; height: 80vh;"/>  
+<iframe src="./Part 1 - Theory/5.Clarity/index.html" style="width: 100%; height: 80vh;"/>  
 
-# Branding - Analysis
-* Giving the website your business identity
-* Using Colour - Business colours  (if these are bad, stick to a basic monochomatic themes)
-* Using Fonts - Fonts are a great way to reach your target audience and make them feel comfortable (No ariel or Times New Roman)
-* Images - Careful use of high resolution images is essential, a picture says a 1000 words (dont use to many or to little) (Blog VS Corporate site)
+
+# Clarity - Analysis
+* Make sure even the most in-experienced user will know what actions do (Don't assume the user will know what it does)
+* Make sure actions and instructions are clear, the flow of a page could also affect this greatly
+* Placeholders should not be the hints or labels for inputs
 
 ## Bad things to point out
-
+* Blurry images
+* Buttons with icons and no text
+    * Stand OST Stop loss trigger. Icons.
+    * Disco's red chilly pepper example.
