@@ -1,4 +1,4 @@
-# Alignment - Concept
+# Alignment
 
 Describe the theory around alignment etc.... 
 

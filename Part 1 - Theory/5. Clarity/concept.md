@@ -1,5 +1,5 @@
 
-# Clarity - Concept
+# Clarity
 
 
 # Clarity - Example 

@@ -1,4 +1,4 @@
-# One page should look like the next - Concept
+# One page should look like the next
 
 
 # One page should look like the next - Example 

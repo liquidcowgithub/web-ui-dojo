@@ -1,5 +1,5 @@
 
-# Branding - Concept
+# Branding
 
 
 # Branding - Example 
