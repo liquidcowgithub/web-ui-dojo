@@ -8,6 +8,12 @@
 
 # Less is More - Analysis
 
+* Managing the users attention is key, so a page should not bea too busy (people look from left to right (vs asia right to left)
+* Button placement should a submit button go on the left or on the right? Does it matter?
+* Button colours (A green delete button would be cause for concern)
 
 ## Bad things to point out
 
+* There is to much going on the background drowns out the actual product
+* Button placement is inconsistant 
+* Button Colour does not suite the action
