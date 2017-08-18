@@ -13,7 +13,7 @@
 * Navbar is inconsistent
     * order of links
     * missing home link
-* consistency ofpluralisation across the site
+* consistency of pluralisation across the site
 * consistency of names of our entities/domain
 * consistency of action names
 * Font sizes
