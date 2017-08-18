@@ -1,5 +1,5 @@
 
-# Less is More - Concept
+# Less is More
 
 
 # Less is More - Example 
