@@ -6,8 +6,58 @@ First dojo is on the 6th of September.
 * Add projector firendly theme file to examples
 * Add example on icons without labels
 
-## Dojo pre-requisites
+#Currently happening
+* Jason - Fleshing out crud example
+* Matt - Practical portion
 
+#Still to Do
+
+* Introduction and Agenda Slides
+    * Why does this matter, why do we care, why is it important       
+* CSS Frameworks and Design guidelines (Slides, links to good frameworks and design guidelines)
+    * Material Design
+    * MSDN Desktop design
+* Add To current slides
+    * Alignment 
+        * Eye tracking
+        * Break up examples to be more focused (One issue at a time)
+    * Forms
+        * Final one, on submit Delay (local machine can be decieving, Dont assume the user is always on the internet)
+    * Perception of Time concept (https://paulbakaus.com/tutorials/performance/the-illusion-of-speed/)
+        * Building on forms
+    * Less is More
+        * Key Concept is attention management
+        * Break up examples to be more focused (One issue at a time)
+            * Eg: Primary coulours vs secondary colours lto highlight primary and secondary actions
+    * CRUD
+        * Adding notes on like pagination
+        * Where is the focus, Pushong content working in bulk, data heavy
+        * Inline editing?
+        * Data Capturere vs User buying a product
+    * Branding
+        * Full Colour section (Expectations of what colurs mean)
+            * Colour palletes
+        * Visualy impared users (Apply 2 seperate)
+            * Create 2 CSS style guides projector friendly and visual impaired
+        * corporate Identity 
+* Some Ideas Section
+    * Do you need to handle every single error
+    * Anti-patter of moving itmes up or down in a list (Possible example)
+    * Borders are like a fashion accesory
+    * Zero Data - Maybe explore this theme some more (Material Design)
+    * Useful calculations (can it be an anti pattern)
+    * Be subtle but not silent (FEedback insstead of silence)
+
+# Next Steps (Prioritisation)
+* Less is More (3 hour)
+* Branding (3 hours)
+* Alignment (1 hour)
+* CSS Frameworks and design guidelines (1 hour)
+* Introduction and Agenda slides (30 mins)
+* Additional Ideas section (30 mins)
+* Perception of time (2 hours)
+
+## Dojo pre-requisites
 * HTML
 * Basic familiarity with Bootstrap 3 (or similar css framework)
 
@@ -77,4 +127,4 @@ Bootstraped CRUD pages may be the best tool to do this?
     * If no, no one else will either.
     * As the developer, you are the mose forgiving user: if you don't like it, everyone else will hate it.
 
-## Part 4 - Further reading resources               `
+## Part 4 - Further reading resources
