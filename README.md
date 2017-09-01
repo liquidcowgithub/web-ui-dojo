@@ -7,8 +7,8 @@ First dojo is on the 6th of September.
 * Add example on icons without labels
 
 #Currently happening
-* Jason - Fleshing out crud example
-* Matt - Practical portion
+* Jason - Fleshing out crud example (2 hours)
+* Matt - Practical portion (4 hours)
 
 #Still to Do
 
