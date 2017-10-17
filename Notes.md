@@ -63,6 +63,6 @@ Title slide, under names
 
 
 
-* UI Design is like fashion, it changes as time oes on
+* UI Design is like fashion, it changes as time goes on
 
 # Try keep the examples relatively realistic, so people can relate
