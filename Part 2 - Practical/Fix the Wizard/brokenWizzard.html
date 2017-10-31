@@ -1,0 +1,119 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>Consistency</title>
+    <link rel="stylesheet" href="wizard.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="wizard.js"></script>
+
+</head>
+
+<body class="goodBackground">
+    <div class="container">
+        <div class="row">
+            <section>
+                <h1>Order Confirmation</h1>
+                <div class="wizard">
+                    <div class="">
+                        <!-- <div class="connecting-line"></div> -->
+                        <ul class="nav nav-tabs" role="tablist">
+                            <li role="presentation" class="active">
+                                <a href="#step1" data-toggle="tab" role="tab" class="disabled">
+                                </a>
+                            </li>
+
+                            <li role="presentation" class="disabled">
+                                <a href="#step2" data-toggle="tab"  role="tab" class="disabled">
+                                </a>
+                            </li>
+                            <li role="presentation" class="disabled">
+                                <a href="#step3" data-toggle="tab" role="tab" class="disabled"></a>
+                            </li>
+
+                            <li role="presentation" class="disabled">
+                                <a href="#complete" data-toggle="tab" role="tab" class="disabled"></a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <form role="form">
+                        <div class="tab-content">
+                            <div class="tab-pane active" role="tabpanel" id="step1">
+                                <div class="well row">
+                                    <div class="col-xs-6">
+                                        <h4>Contact Number:&nbsp; 072 123 4567</h4>
+                                    </div>
+                                </div>
+                                <div class="well row">
+                                    <div class="col-xs-6">
+                                        <h4>Email Adress:&nbsp; james.test@testing123.com</h4>
+                                    </div>
+                                </div>
+                                <ul class="list-inline">
+                                    <li>
+                                        <button type="button" class="btn btn-warning next-step">Next</button>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="tab-pane" role="tabpanel" id="step2">
+                                <div class="well row">
+                                    <div class="col-xs-3">
+                                        <h4>Location:&nbsp;3 Melrose Boulevard Melrose North Johannesburg</h4>
+                                    </div>
+                                </div>
+                                <div class="well row">
+                                    <div class="col-xs-6">
+                                        <h4>Company:&nbsp; Entelect</h4>
+                                    </div>
+                                </div>
+                                <ul class="list-inline">
+                                    <li>
+                                        <button type="button" class="btn btn-warning next-step">Next</button>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="tab-pane" role="tabpanel" id="step3">
+                                <div class="well row">
+                                    <div class="col-xs-6">
+                                        <h4>Card: &nbsp; 10** **** **** 0909</h4>
+                                    </div>
+                                </div>
+                                <div class="well row">
+                                    <div class="col-xs-6">
+                                        <h4>Amount: &nbsp; R 2109.00</h4>
+                                    </div>
+                                </div>
+                                <ul class="list-inline">
+                                    <li>
+                                        <button type="button" class="btn btn-warning btn-info-full next-step">Next</button>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="tab-pane" role="tabpanel" id="complete">
+                                <div class="well">
+                                    <p>I confirm that all the payment details are correct.</p>
+                                </div>
+                                <ul class="list-inline">
+                                        <li>
+                                            <button type="button" class="btn btn-warning btn-info-full next-step">Proceed</button>
+                                        </li>
+                                    </ul>
+                            </div>
+                            <div class="clearfix"></div>
+                        </div>
+                    </form>
+                </div>
+            </section>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script src="wizard.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
