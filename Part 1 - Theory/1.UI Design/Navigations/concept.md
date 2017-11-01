@@ -8,6 +8,8 @@ Describe the theory around navigations etc....
 
 # Navigations - Analysis
 
+* "When it comes to websites, the navigation system acts like a road map to all the different areas and information contained within the website." ~ Andrea Gust
+* This is the gateway to all the functionality within the system, It needs to be intuative.
 
 ## Bad things to point out
 

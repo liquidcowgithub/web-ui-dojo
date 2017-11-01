@@ -7,6 +7,8 @@
 
 # One page should look like the next - Analysis
 
+* Websites need to flow, the transitions between components and pages needs to be seemless.
+* 
 
 ## Bad things to point out
 
