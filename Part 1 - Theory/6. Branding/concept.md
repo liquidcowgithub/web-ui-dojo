@@ -2,6 +2,11 @@
 # Branding
 
 
+#
+<center>
+    <img src="./Part 3 - Some ideas/showing state.png" />
+</center>
+
 # Branding - Example 
 
 <iframe src="./Part 1 - Theory/6.Branding/index.html" style="width: 100%; height: 80vh;"/>  
