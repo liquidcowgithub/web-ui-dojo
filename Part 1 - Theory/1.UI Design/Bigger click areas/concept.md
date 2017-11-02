@@ -1,4 +1,4 @@
-# Bigger click areas - Concept
+# Bigger click areas
 
 A user's accuracy with a mouse is likely to be questionable (unless they're a Quake 3 Hero).
 
@@ -10,16 +10,16 @@ Clicking on a tiny icon, link or button is going to be tricky.
 
 <iframe src="./Part 1 - Theory/1.UI Design/Bigger click areas/index.html" style="width: 100%; height: 80vh;"/>  
 
+## Bigger click areas - Observations
+
+* The Collapsible panel can only be opened by clicking on the caret, this is a tiny click area
+* The Radio buttons can only be selected by clicking on the button area
+* The checkbox can only be selected by clicking on the box itself
+* Cursor does not change when hovering over clickable areas
+
 # Bigger click areas - Analysis
 
 * This is an area of UI design that is often overlooked
 * Nothing is worse than trying multiple time to click on a "Remember Me" checkbox that just can't be clicked
-* A user can loose out on the full functionality of a site, especially if the site has hidden elements, that can't be reached because of tiny click areas 
-
-## Bad things to point out
-
-* The Collapsable panel can only be opened by clicking on the caret, this is a tiny click area
-* The Radio buttons can only be selected by clicking on the button area
-* The checkbox can only be seleted by clicking onthe box itself
-* Cursor does not change when hovering over clickable areas
+* A user can lose out on the full functionality of a site, especially if information hiding UI techniques are used, as they won't know that things are clickable. 
 
