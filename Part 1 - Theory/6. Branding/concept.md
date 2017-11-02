@@ -5,22 +5,22 @@
 
 #
 <center>
-    <img src="./ Colour Section/  ColourSlides1.jpg" />
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Colour Slides 1.jpg" />
 </center>
 
 #
 <center>
-    <img src="./ Colour Section/  ColourSlides1.jpg" />
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Colour Slides 2.jpg" />
 </center>
 
 #
 <center>
-    <img src="./ Colour Section/  ColourSlides1.jpg" />
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Colour Slides 3.jpg" />
 </center>
 
 #
 <center>
-    <img src="./ Colour Section/  ColourSlides1.jpg" />
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Colour Slides 4.jpg" />
 </center>
 
 #
