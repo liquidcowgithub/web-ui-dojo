@@ -1,3 +1,3 @@
 # Thank you!
 
-We hope it wasn't too boring.
+"UI Design is like fashion, it changes as time goes on" ~ Hennie Brink
