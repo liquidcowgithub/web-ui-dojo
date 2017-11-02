@@ -23,6 +23,51 @@
     <img src="./Part 1 - Theory/6. Branding/Colour Section/Color Slides 4.JPG" />
 </center>
 
+#
+<center>
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Color Slides 5.JPG" />
+</center>
+
+#
+<center>
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Color Slides 6.JPG" />
+</center>
+
+#
+<center>
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Color Slides 7.JPG" />
+</center>
+
+#
+<center>
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Color Slides 8.JPG" />
+</center>
+
+#
+<center>
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Color Slides 9.JPG" />
+</center>
+
+#
+<center>
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Color Slides 10.JPG" />
+</center>
+
+#
+<center>
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Color Slides 11.JPG" />
+</center>
+
+#
+<center>
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Color Slides 12.JPG" />
+</center>
+
+#
+<center>
+    <img src="./Part 1 - Theory/6. Branding/Colour Section/Color Slides 13.JPG" />
+</center>
+
 # Branding - Example 
 
 <iframe src="./Part 1 - Theory/6. Branding/index.html" style="width: 100%; height: 80vh;"/>  
