@@ -7,7 +7,7 @@ require.extensions['.md'] = function (module, filename) {
 const markpress = require('markpress');
 const options = {
   layout: 'horizontal',
-  theme: 'dark',
+  theme: 'light',
   autoSplit: true,
   allowHtml: true,
   verbose: false,
@@ -21,7 +21,7 @@ const options = {
  
 // // or you can pass the Markdown content directly as parameter 
  
-const introduction = require('./Part 0 - Introduction/introduction.md')
+const introduction = require('./Part 0 - Introduction/concept.md')
 const alignment = require('./Part 1 - Theory/1.UI Design/Alignment/concept.md')
 const biggerClickAreas = require('./Part 1 - Theory/1.UI Design/Bigger click areas/concept.md')
 const navigations = require('./Part 1 - Theory/1.UI Design/Navigations/concept.md')
@@ -32,6 +32,7 @@ const formsPlaceholders = require('./Part 1 - Theory/3.Simplicity/Forms Placehol
 const lessIsMore = require('./Part 1 - Theory/3.Simplicity/Less is More/concept.md')
 const crud = require('./Part 1 - Theory/3.Simplicity/CRUD/concept.md')
 const onePageShouldLookLikeTheNext = require('./Part 1 - Theory/4.Consistency/One page should look like the next/concept.md')
+const branding = require('./Part 1 - Theory/6. Branding/concept.md')
 const practical = require('./Part 2 - Practical/concept.md')
 const someIdeas = require('./Part 3 - Some ideas/concept.md')
 const furtherReading = require('./Part 4 - Futher reading/Reading resources.md')
@@ -50,6 +51,7 @@ markpress(
     lessIsMore + "\n" + 
     crud + "\n" + 
     onePageShouldLookLikeTheNext + "\n" +
+    branding + "\n" +
     practical + "\n" +
     someIdeas + "\n" +
     furtherReading + "\n" +
