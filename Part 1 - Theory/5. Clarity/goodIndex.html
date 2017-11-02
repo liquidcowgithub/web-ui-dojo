@@ -57,8 +57,13 @@
             <div class="col-xs-12">
                 <div class="col-xs-12 well">
                     <div class="left-column col-xs-6">
-                        <img data-image="black" src="img/comic5.jpg" alt="" width="150" height="220">
-                        <h4> R 150.00 </h4>
+                        <div class="row">
+                            <img data-image="black" src="img/comic5.jpg" alt="" width="150" height="220">
+                        </div>
+
+                        <div class="row">
+                            <button class="btn btn-link"><i class="fa fa-heart"></i>&nbsp;Add to Favourites</button>
+                        </div>
                     </div>
 
                     <!-- Right Column -->
@@ -66,50 +71,27 @@
 
                         <!-- Product Description -->
                         <div class="product-description">
-                            <h1 style="margin-top:0;">Superman </h1>
+                            <div class="row">
+                                <h1 class="col-xs-6" style="margin-top:0;">Superman</h1>
+                                <a href="" class="col-xs-6" style="padding-top: 15px;"><i class="fa fa-pencil"></i>&nbsp;Edit</a>
+                            </div>
+                            <h2> R 150.00 </h2>
                             <p>Superman is an ongoing American comic book series featuring the DC Comics superhero of the same
                                 name. The character Superman began as one of several anthology features in the National Periodical
-                                Publications comic book Action Comics #1 in June 1938.</p>
+                                Publications comic book Action Comics #1 in June 1938.&nbsp; 
+                                <a href="">more ...</a></p>
                         </div>
 
                         <div class="product-configuration" style="padding-top: 5px;">
                             <div class="cable-config">
-                                <span>Item Actions</span>
                                 <div class="cable-choose">
-                                    <button class="btn btn-primary">Edit <i class="fa fa-pencil" aria-hidden="true"></i></button>
-                                    <button class="btn btn-danger">Delete <i class="fa fa-trash-o" aria-hidden="true"></i></button>
-                                    <button class="btn btn-success pull-right">Add to Cart <i class="fa fa-shopping-cart"></i></button>
+                                    <button class="btn btn-success"><i class="fa fa-shopping-cart"></i>&nbsp;Add to Cart</button>
+                                    <button class="btn btn-link"><i class="fa fa-comment"></i>&nbsp;Leave a comment</button>
                                 </div>
                             </div>
                         </div>
                     </div>
 
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="panel">
-                <div class="col-xs-12" style="padding-top: 10px;">
-                    <h3>Request a Comic: </h3>
-                    <form>
-                        <div class="form-group">
-                            <label for="name">Name:</label>
-                            <input type="text"  class="form-control" id="name">
-                        </div>
-                        <div class="form-group">
-                            <label for="email">Email address:</label>
-                            <input type="email" placeholder="Email Adress" class="form-control" id="email">
-                        </div>
-                        <div class="form-group">
-                            <label for="subject">Subject</label>
-                            <input type="text" placeholder="Subject" class="form-control" id="subject">
-                        </div>
-                        <div class="form-group">
-                            <label >bosy:</label>
-                            <textarea class="form-control" placeholder="Email Body" rows="3"></textarea>
-                        </div>
-                        <button type="submit" class="btn btn-primary">Sign Up</button>
-                    </form>
                 </div>
             </div>
         </div>

@@ -31,6 +31,7 @@ const formsIconography = require('./Part 1 - Theory/3.Simplicity/Forms Iconograp
 const formsPlaceholders = require('./Part 1 - Theory/3.Simplicity/Forms Placeholders/concept.md')
 const lessIsMore = require('./Part 1 - Theory/3.Simplicity/Less is More/concept.md')
 const crud = require('./Part 1 - Theory/3.Simplicity/CRUD/concept.md')
+const clarity = require('./Part 1 - Theory/5.Clarity/concept.md')
 const onePageShouldLookLikeTheNext = require('./Part 1 - Theory/4.Consistency/One page should look like the next/concept.md')
 const branding = require('./Part 1 - Theory/6. Branding/concept.md')
 const practical = require('./Part 2 - Practical/concept.md')
@@ -43,14 +44,15 @@ markpress(
     introduction + "\n" + 
     alignment + "\n" + 
     biggerClickAreas + "\n" + 
-    navigations + "\n" + 
     forms + "\n" + 
     submitOnEnter + "\n" + 
     formsIconography + "\n" + 
     formsPlaceholders + "\n" + 
-    lessIsMore + "\n" + 
-    crud + "\n" + 
+    navigations + "\n" + 
     onePageShouldLookLikeTheNext + "\n" +
+    lessIsMore + "\n" + 
+    clarity + "\n" +
+    crud + "\n" + 
     branding + "\n" +
     practical + "\n" +
     someIdeas + "\n" +
