@@ -1,3 +1,3 @@
-# Clone this repository!
+# Thank you!
 
-[github.com/liquidcowgithub/web-ui-dojo](https://github.com/liquidcowgithub/web-ui-dojo)
+We hope it wasn't too boring.

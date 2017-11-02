@@ -1,21 +1,25 @@
 # Web UI Dojo
 
+## Presenters
+
 Jason Hung & Matthew van der Velden
 
-# Questions 
+## Follow along!
 
-* Why does this matter?
+[github.com/liquidcowgithub/web-ui-dojo](https://github.com/liquidcowgithub/web-ui-dojo)
+
+# A little introspection 
+
+* Do user interfaces really matter?
 * Why do we care?
-* Why is it important?
 
-# Questions
+# A little introspection
 
-* Why does this matter?
-    * UIs are the bridge between Technology and people.
+* Do user interfaces really matter?
+    * UIs are the bridge between technology and people.
+    * It's often our only point of interaction with the user.
 * Why do we care?
     * Because we're professionals, and good UIs are becoming the expectation not the exception.
-* Why is it important? 
-    * It's our point of contact with the user, to make them feel like they are interacting with people.
 
 # Let's cover some basic concepts
 
