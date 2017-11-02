@@ -1,10 +1,31 @@
 
 # Branding
 
+# Colour
 
 #
 <center>
-    <img src="./Part 3 - Some ideas/showing state.png" />
+    <img src="./ Colour Section/  ColourSlides1.jpg" />
+</center>
+
+#
+<center>
+    <img src="./ Colour Section/  ColourSlides1.jpg" />
+</center>
+
+#
+<center>
+    <img src="./ Colour Section/  ColourSlides1.jpg" />
+</center>
+
+#
+<center>
+    <img src="./ Colour Section/  ColourSlides1.jpg" />
+</center>
+
+#
+<center>
+    <img src="./ Colour Section/  ColourSlides1.jpg" />
 </center>
 
 # Branding - Example 
