@@ -28,9 +28,6 @@ Title slide, under names
 # Navigation
 * 
 
-# Forms
-* Talk about design frame works and how they do things differently
-* Final one, on submit Delay (local machine can be decieving, Dont assume the user is always on the internet)
 
 # Less is more
 * Split into a few more examples
