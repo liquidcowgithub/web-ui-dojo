@@ -41,24 +41,24 @@ const conclusion = require('./Part 5 - Conclusion/conclusion.md')
 const questions = require('./Part 5 - Conclusion/questions.md')
 
 markpress(
-    introduction + "\n" + 
-    alignment + "\n" + 
-    biggerClickAreas + "\n" + 
-    forms + "\n" + 
-    submitOnEnter + "\n" + 
-    formsIconography + "\n" + 
-    formsPlaceholders + "\n" + 
-    navigations + "\n" + 
-    onePageShouldLookLikeTheNext + "\n" +
-    lessIsMore + "\n" + 
-    clarity + "\n" +
-    crud + "\n" + 
-    branding + "\n" +
-    practical + "\n" +
-    someIdeas + "\n" +
-    furtherReading + "\n" +
-    conclusion + "\n" +
-    questions,
+    introduction + "\n" +                 //Matt
+    alignment + "\n" +                    //Matt
+    biggerClickAreas + "\n" +             //Matt
+    forms + "\n" +                        //Matt
+    submitOnEnter + "\n" +                //Matt
+    formsIconography + "\n" +             //Matt
+    formsPlaceholders + "\n" +            //Matt
+    navigations + "\n" +                  //Matt
+    onePageShouldLookLikeTheNext + "\n" + //Matt
+    lessIsMore + "\n" +                   //Jason
+    clarity + "\n" +                      //Jason
+    crud + "\n" +                         //Jason
+    branding + "\n" +                     //Jason
+    practical + "\n" +                    //Joint - Matt Starts it off
+    someIdeas + "\n" +                    //Joint - Jason
+    furtherReading + "\n" +               //Joint - Jason
+    conclusion + "\n" +                   //Matt
+    questions,                            //Joint
   options
 ).then(({html, md}) => {
   fs.writeFileSync('index.html', html);
