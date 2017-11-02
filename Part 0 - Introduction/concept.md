@@ -8,6 +8,8 @@ Jason Hung & Matthew van der Velden
 
 [github.com/liquidcowgithub/web-ui-dojo](https://github.com/liquidcowgithub/web-ui-dojo)
 
+Open the **index.html** - recommended viewing at 75% zoom.
+
 # A little introspection 
 
 * Do user interfaces really matter?
