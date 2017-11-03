@@ -21,4 +21,4 @@ Consistency across your UI is really important.
 
 * Websites need to flow, the transitions between components and pages needs to be seamless.
 * When developing in isolation, its easy to introduce inconsistencies.
-* Consider using a style
+* Consider using a living development style guide

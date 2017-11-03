@@ -5,7 +5,7 @@
 # Forms - Analysis
 
 * CSS / design frame works all look different, and do things differently.
-    * Go look at how your chosen CCS framework does it's forms. Maybe you've been doing it wrong all this time?
+    * Go look at how your chosen CSS framework does it's forms. Maybe you've been doing it wrong all this time?
 * Think about how a Material Design form looks and behaves vs a Bootstrap form.
 
 # Forms - Analysis

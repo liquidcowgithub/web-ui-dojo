@@ -1,7 +1,7 @@
 
 # Less is More
 
-The following example is not much of an exaggeration of what grads produce in Entelct bootcamps. :)
+The following example is not much of an exaggeration of what grads produce in the Entelect bootcamps. :)
 
 # Less is More - Example 
 
